@@ -1,0 +1,19 @@
+{
+  "name": "chai-latte",
+  "version": "1.0.0",
+  "description": "とりあえずチャイラテ飲みますか",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasmineSystem/chai-latte.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JasmineSystem/chai-latte/issues"
+  },
+  "homepage": "https://github.com/JasmineSystem/chai-latte#readme"
+}
